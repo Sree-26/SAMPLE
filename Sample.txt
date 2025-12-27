@@ -1,1 +1,5 @@
 This is a sample file for my Introduction to Git Task.
+Project: Music App UI - Research Interface Layer
+Focus: Human-Computer Interaction (HCI) and Audio Systems
+Objective: Integration of Transformer-based recommendation models
+Author: Sree V K | B.Tech AIML student at BIT
